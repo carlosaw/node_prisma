@@ -12,3 +12,6 @@
 
 # DB
 ## Dbeaver (postgres)
+
+# Testar
+## Postman API node + prisma
